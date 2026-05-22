@@ -382,7 +382,7 @@ export default function App() {
       </section>
 
       <footer className="text-center py-8 text-gray-600 border-t border-zinc-800">
-        © 2025 Portofolio Satria Aryandhi
+        © 2026 Portofolio Satria Aryandhi
       </footer>
     </div>
   );
