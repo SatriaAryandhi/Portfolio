@@ -8,7 +8,7 @@ https://satriaaryandhi.vercel.app/
 
 ## 📸 Preview
 
-![Portfolio Preview](./src/assets/preview.png)
+![Portfolio Preview](./src/assets/Preview.png)
 
 ## 🚀 Tech Stack
 
